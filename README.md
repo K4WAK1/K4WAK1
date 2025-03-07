@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Himmel
-- 👀 I’m interested in website develop
-- 🌱 I’m currently learning on polimedia
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 081223473445
+- 👋 Hi, I’m aufarist
+- 👀 I’m interested in game develop
+- 🌱 I’m currently learning on university of indraprasta pgri
 
 <!---
 K4WAK1/K4WAK1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
